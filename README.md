@@ -1,4 +1,4 @@
-# Python - 2st Lab
+# Python - 2nd Lab
 ![Screenshot](Screenshot1.png)
 # Exception 1
 ![Screenshot](Screenshot2.png)
